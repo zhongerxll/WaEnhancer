@@ -240,7 +240,7 @@
     <string name="enable_media_preview_sum">添加一个按钮用于预览临时文件中的媒体（无需永久下载）</string>
     <string name="new_ui_group_filter">新版分组 UI</string>
     <string name="new_ui_group_filter_sum">在主屏幕上添加一个新过滤器，以区分群组和对话。</string>
-    <string name="call_blocking_type">来电拦截类型</string>
+    <string name="call_blocking_type">来电拦截方式</string>
     <string name="call_blocking_type_sum">选择拦截来电的方法。</string>
     <string name="call_type_buttons_no_internet">无网络</string>
     <string name="call_type_buttons_declined">来电被拒绝</string>
@@ -392,9 +392,9 @@
     <string name="always_online">一直在线</string>
     <string name="always_online_sum">即使你最小化WhatsApp，仍然显示你在线（如果你将其从最近使用的应用中移除，则无法使用）。</string>
     <string name="additional_call_information">其他通话信息</string>
-    <string name="additional_call_information_sum">通话结束后收到包含更多信息的通知</string>
+    <string name="additional_call_information_sum">通话结束后获取本次通话详细信息并发送通知</string>
     <string name="contact_s">联系人：%s</string>
-    <string name="phone_number_s">手机号：%s</string>
+    <string name="phone_number_s">手机号：+%s</string>
     <string name="country_s">国家：%s</string>
     <string name="city_s">城市：%s</string>
     <string name="ip_s">IP：%s</string>
